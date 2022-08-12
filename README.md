@@ -38,10 +38,12 @@ date
 sudo date --set="2021-07-23 13:29:00.000"
 ```
 
-## RODAR O PROJETO
+## Download Docker
 
 - Baixe e instale o docker no link abaixo ou no link mais atual no próprio site do docker
 [https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe)
+
+## RODAR O PROJETO
 
 - Estando na pasta do projeto rode o docker composer para verificar se está tudo funcionando com o comando abaixo.
 ```console
