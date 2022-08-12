@@ -30,7 +30,9 @@ Na primeira vez que vocÃª iniciar uma distribuição Linux recém-instalada, u
 ## CONFIGURAR DATA NO LINUX (UBUNTU)
 
 - Com o ubuntu aberto verifique a data e hora digitando o comando abaixo
+```console
 date
+```
 
 - Verifique se a data e hora estão iguais ao do windows. Caso não esteja altere a data utilizando conforme indicado abaixo.
 	- Exemplo: caso o windows esteja com a seguinte data/hora 23/07/2021 13:29:00 execute o comando:
